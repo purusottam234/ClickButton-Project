@@ -3,8 +3,7 @@ import react,{Component} from 'react';
 
 export default class App extends Component
 {
-
-  constructor(props)
+ constructor(props)
   {
     super(props);
     this.state = { counter:0,
